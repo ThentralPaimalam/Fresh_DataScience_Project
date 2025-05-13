@@ -12,7 +12,7 @@ Analyze the relationships and influence of input features on students’ academi
 Build a clean, reusable, and deployable machine learning pipeline.
 
 
-## 🗃Dataset Description
+## Dataset Description
 
 The dataset contains information about student demographics and their scores in three subjects: math, reading, and writing.
 
