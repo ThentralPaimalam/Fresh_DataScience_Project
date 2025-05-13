@@ -80,4 +80,7 @@ The CatBoost model achieved an R² score of over **94%**, indicating strong pred
 - The project can be turned into a web app where users input student details and receive predicted scores
 
 
+## Output
+
+![Image](https://github.com/user-attachments/assets/5686c563-6d1f-4eb8-82cb-d9649524e03e)
 
