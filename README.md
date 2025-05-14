@@ -1,5 +1,16 @@
 #  Student Performance Prediction - End-to-End Data Science Project
+*COMPANY*: CODETECH IT SOLUTIONS
 
+*NAME*: THENTRAL S
+
+*INTERN ID*: CT08WN69
+
+*DOMAIN*: DATA SCIENCE
+
+*DURATION*: 8 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+## Description
 This project is an end-to-end implementation of a machine learning pipeline to predict student performance based on socio-economic and academic features. The purpose is to understand which factors impact students' scores and build a reliable model that can predict academic outcomes with high accuracy.
 
 
