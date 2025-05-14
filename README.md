@@ -93,5 +93,4 @@ The CatBoost model achieved an R² score of over **94%**, indicating strong pred
 
 ## Output
 
-![Image](https://github.com/user-attachments/assets/5686c563-6d1f-4eb8-82cb-d9649524e03e)
-
+![Image](https://github.com/user-attachments/assets/142f0aa4-22f3-4ec6-b33d-67d939f447ce)
